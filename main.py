@@ -1,1 +1,2 @@
-primt("cos taaaam")
+print("cos taaaam")
+print("hejka swiat!!")
